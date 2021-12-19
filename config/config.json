@@ -1,0 +1,21 @@
+{
+  "CONTRACT_ADDRESS": "0x840Cfe255986259690045D1004Ff3b3f73766a2E",
+  "OWNER_ADDRESS": "0xfC8bF162327c16726bf672405C306361D163d4fb",
+
+  "SCAN_LINK": "https://Etherscan.com/0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Looted Monkeys ",
+  "SYMBOL": "LM",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 40000000000000000,
+  "DISPLAY_COST": 0.04,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/lootedmonkeys",
+  "SHOW_BACKGROUND": true
+}
+
